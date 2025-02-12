@@ -1,0 +1,31 @@
+title: Lucas Dórea Cardoso - Portfólio
+description: Desenvolvedor de Software & Especialista em Soluções Sustentáveis
+author: Lucas Dórea Cardoso
+baseurl: "/curriculum-vitae"
+url: "https://lucasdoreac.github.io"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Social links
+social:
+  linkedin: lucas-dórea-cardoso-771833112
+  github: Lucasdoreac
+  email: lucasdorea.c@outlook.com
+
+# Google Analytics
+google_analytics: # your Google Analytics tracking ID
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - package-lock.json
+  - README.md
+  - LICENSE
