@@ -1,0 +1,41 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "serve": "/index.html",
+      "statusCode": 200
+    },
+    {
+      "route": "/portfolio",
+      "serve": "/portfolio.html",
+      "statusCode": 200
+    },
+    {
+      "route": "/experience",
+      "serve": "/experience.html",
+      "statusCode": 200
+    },
+    {
+      "route": "/education",
+      "serve": "/education.html",
+      "statusCode": 200
+    },
+    {
+      "route": "/skills",
+      "serve": "/skills.html",
+      "statusCode": 200
+    },
+    {
+      "route": "/certificates",
+      "serve": "/certificates.html",
+      "statusCode": 200
+    }
+  ],
+  "platformErrorOverrides": [
+    {
+      "errorType": "NotFound",
+      "serve": "/404.html"
+    }
+  ],
+  "defaultRedirectUrl": "/index.html"
+}
