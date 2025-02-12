@@ -10,10 +10,10 @@
 - GitHub: [Lucasdoreac](https://github.com/Lucasdoreac)
 
 ## Links Rápidos
-- [Portfólio de Projetos](https://lucasdoreac.github.io/curriculum-vitae/portfolio)
-- [Experiência Profissional](https://lucasdoreac.github.io/curriculum-vitae/experience)
-- [Formação Acadêmica](https://lucasdoreac.github.io/curriculum-vitae/education)
-- [Habilidades Técnicas](https://lucasdoreac.github.io/curriculum-vitae/skills)
+- [Portfólio de Projetos](https://lucasdoreac.github.io/docs/portfolio)
+- [Experiência Profissional](https://lucasdoreac.github.io/docs/experience)
+- [Formação Acadêmica](https://lucasdoreac.github.io/docs/education)
+- [Habilidades Técnicas](https://lucasdoreac.github.io/docs/skills)
 
 ## Objetivo / Resumo
 Estudante do 3º semestre de Ciência da Computação no UDF Centro Universitário, com formação complementar em Gestão Ambiental. Apaixonado por desenvolver soluções tecnológicas que otimizem processos e promovam a sustentabilidade. Experiência em lógica de programação, estruturas de dados, desenvolvimento de software, análise de dados e suporte à infraestrutura de TI.
