@@ -44,6 +44,7 @@ Estudante de Ciência da Computação no UDF Centro Universitário, com formaç�
 
 ## Habilidades Técnicas
 - Linguagens: HTML, CSS, Python, JavaScript, PHP
+- CMS: WordPress
 - Estruturas de Dados: Listas, Filas, Pilhas, Árvores
 - Banco de Dados: SQL, Modelagem de Dados
 - Sistemas: Linux, Windows Server
