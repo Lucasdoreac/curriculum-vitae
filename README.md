@@ -1,6 +1,6 @@
 # Lucas Dórea Cardoso
 
-[Ver Portfólio Completo](https://lucasdoreac.github.io/curriculum-vitae)
+[Ver Portfólio Completo](https://lucasdoreac.github.io)
 
 ## Contato
 - Endereço: Guará I - Brasília/DF
@@ -8,12 +8,7 @@
 - E-mail: lucasdorea.c@outlook.com
 - LinkedIn: [lucas-dórea-cardoso-771833112](https://linkedin.com/in/lucas-dórea-cardoso-771833112)
 - GitHub: [Lucasdoreac](https://github.com/Lucasdoreac)
-
-## Links Rápidos
-- [Portfólio de Projetos](https://lucasdoreac.github.io/docs/portfolio)
-- [Experiência Profissional](https://lucasdoreac.github.io/docs/experience)
-- [Formação Acadêmica](https://lucasdoreac.github.io/docs/education)
-- [Habilidades Técnicas](https://lucasdoreac.github.io/docs/skills)
+- Portfolio: [lucasdoreac.github.io](https://lucasdoreac.github.io)
 
 ## Objetivo / Resumo
 Estudante de Ciência da Computação no UDF Centro Universitário, com formação em Gestão Ambiental. Experiência em desenvolvimento de software, análise de dados e suporte técnico. Comprometido com soluções tecnológicas que otimizem processos e promovam a sustentabilidade.
