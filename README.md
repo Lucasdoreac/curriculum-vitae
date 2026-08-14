@@ -3,7 +3,7 @@
 [Ver portfólio completo](https://lucasdoreac.github.io/) · [GitHub](https://github.com/Lucasdoreac)
 
 ## Contato
-- Endereço: QE 01 Conjunto M Casa 35, Guará I - Brasília/DF
+- Localização: Brasília/DF
 - Telefone: (61) 99358-0909
 - E-mail: lucasdorea.c@outlook.com
 - LinkedIn: [lucas-dórea-cardoso-771833112](https://linkedin.com/in/lucas-dórea-cardoso-771833112)
